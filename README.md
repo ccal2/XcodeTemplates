@@ -1,6 +1,6 @@
 # Xcode Templates
 
-![](Choose&#32;template.png)
+![](Screenshot.png)
 
 ## How to make it work
 
